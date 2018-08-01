@@ -1,0 +1,7 @@
+{
+  "name": "mvLembrete",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
